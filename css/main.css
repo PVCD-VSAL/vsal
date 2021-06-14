@@ -38,7 +38,6 @@ header h1 {
     padding-top: 1em;
     font-weight: bold;
     font: 1em -apple-system-headline, "Droid Sans Mono", Courier, mono;
-    text-transform: lowercase;
     margin-left: 25px;
     padding-bottom: 2.1em;
 }
