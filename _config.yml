@@ -1,0 +1,25 @@
+
+# Jekyll Defaults
+title: FIVR-200k-PVCD
+description: A small and simple site I made to test out Jekyll.
+baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "https://pvcd-vsal.github.io/test/"
+#url: "http://127.0.0.1:4000/"
+github: http://github.com/pvcd-vsal/vsal
+highlighter: rouge
+markdown: kramdown
+permalink: /post/:title/
+paginate: 4
+gems: [jekyll-paginate]
+paginate_path: "/page:num"
+rss_path: /feed.xml
+navigation:
+- text: About
+  url: /about/
+- text: results
+  url: /results/
+- text: Downloads
+  url: /downloads/
+- text: Codes
+  url: /codes/
