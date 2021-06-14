@@ -7,4 +7,4 @@ tags: [results]
 
 We evaluate the performance of VSAL on FIVR-200k-PVCD and results are reported below:
 
-![./results/results.png](./results/results.png)
+![https://raw.githubusercontent.com/PVCD-VSAL/vsal/master/results/results.png](https://raw.githubusercontent.com/PVCD-VSAL/vsal/master/results/results.png)
