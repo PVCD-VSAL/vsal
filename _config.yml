@@ -4,7 +4,7 @@ title: FIVR-200k-PVCD
 description: A small and simple site I made to test out Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://pvcd-vsal.github.io/test/"
+url: "https://pvcd-vsal.github.io/vsal/"
 #url: "http://127.0.0.1:4000/"
 github: http://github.com/pvcd-vsal/vsal
 highlighter: rouge
