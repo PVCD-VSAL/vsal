@@ -15,7 +15,7 @@ To evaluating the performances of PVCD systems on more complicated spatial and t
 * [Result][results] 
 
 
-[anno]: https://pvcd-vsal.github.io//downloads/
+[anno]: https://pvcd-vsal.github.io/vsal//downloads/
 [video]: http://ndd.iti.gr/fivr/
 [code]: https://pvcd-vsal.github.io/vsal//codes/
 [results]: https://pvcd-vsal.github.io/vsal//results/
