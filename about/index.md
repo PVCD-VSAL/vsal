@@ -8,15 +8,14 @@ To evaluating the performances of PVCD systems on more complicated spatial and t
 ## Newly Added Segment-level Annotations
  Overall FIVR-200k-PVCD contains 10870 annotated copy segment pairs involving 5935 different video pairs. Many partial copy segments are more challenging with abundant temporal and spatial editing. 
 
- 
+## News 
  [2021-08-03] **The FIVR-200k-PVCD annotations have been released!**
 
 ## Links
-* [FIVR-200k-PVCD annotations][anno]
-* [FIVR-200k videos][video]
-* [Evaluation codes][code]
 * [Result][results] 
-
+* [FIVR-200k-PVCD annotations][anno]
+* [FIVR-200k][video]
+* [Evaluation codes][code]
 
 [anno]: https://pvcd-vsal.github.io/vsal//downloads/
 [video]: http://ndd.iti.gr/fivr/
