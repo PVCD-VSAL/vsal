@@ -12,8 +12,8 @@ To evaluating the performances of PVCD systems on more complicated spatial and t
  [2021-08-03] **The FIVR-200k-PVCD annotations have been released!**
 
 ## Links
-* [Result][results] 
-* [FIVR-200k-PVCD annotations][anno]
+* [Results][results] 
+* [FIVR-200k-PVCD][anno]
 * [FIVR-200k][video]
 * [Evaluation codes][code]
 
