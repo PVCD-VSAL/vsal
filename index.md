@@ -32,7 +32,11 @@ To evaluating the performances of PVCD systems on more complicated spatial and t
 ## Citation
 If you use FIVR-200K-PVCD dataset in your research, please cite the following paper [[arXiv]][[pdf]]:
 ```
-Zhen Han, Xiangteng He, Mingqian Tang and Yiliang Lv. 2021. Video Similarity and Alignment Learning on Partial Video Copy Detection. In Proceedings of the 29th ACM International Conference on Multimedia (MM ’21), Octo- ber 20–24, 2021, Virtual Event, China. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3474085.3475549
+Zhen Han, Xiangteng He, Mingqian Tang and Yiliang Lv. 2021. 
+Video Similarity and Alignment Learning on Partial Video Copy Detection.
+In Proceedings of the 29th ACM International Conference on Multimedia (MM ’21), 
+October 20–24, 2021, Virtual Event, China. ACM, New York, NY, USA, 9 pages. 
+https://doi.org/10.1145/3474085.3475549
 ```
 [arXiv]: https://arxiv.org/abs/2108.01817
 [pdf]: https://arxiv.org/pdf/2108.01817
