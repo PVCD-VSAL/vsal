@@ -11,6 +11,8 @@ To evaluating the performances of PVCD systems on more complicated spatial and t
 ## News 
  [2021-08-03] **The FIVR-200k-PVCD annotations have been released!**
 
+ [2021-08-09] **The full paper have been released!**
+
 ## Links
 * [Results][results] 
 * [FIVR-200k-PVCD][anno]
@@ -26,3 +28,11 @@ To evaluating the performances of PVCD systems on more complicated spatial and t
 [video]: http://ndd.iti.gr/fivr/
 [code]: http://127.0.0.1:4000//codes/
 [results]: http://127.0.0.1:4000//results/ -->
+
+## Citation
+If you use FIVR-200K-PVCD dataset in your research, please cite the following paper [[arXiv]][[pdf]]:
+```
+Zhen Han, Xiangteng He, Mingqian Tang and Yiliang Lv. 2021. Video Similarity and Alignment Learning on Partial Video Copy Detection. In Proceedings of the 29th ACM International Conference on Multimedia (MM ’21), Octo- ber 20–24, 2021, Virtual Event, China. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3474085.3475549
+```
+[arXiv]: https://arxiv.org/abs/2108.01817
+[pdf]: https://arxiv.org/pdf/2108.01817
